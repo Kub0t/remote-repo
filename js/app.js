@@ -1,0 +1,1 @@
+console.log("odlaczona glowa - DETACHED HEAD")
